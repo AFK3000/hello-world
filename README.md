@@ -1,2 +1,7 @@
 # hello-world
-Repository
+
+Hello World
+
+This is my first time coding lets make it happen!
+
+
